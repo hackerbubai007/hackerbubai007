@@ -27,7 +27,7 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
 ## 🔬 Featured Projects
 
 ### [E-commerce Microservices Platform](https://github.com/hackerbubai007/ecommerce-platform)
-![Java](https://img.shields.io/badge/Java-17-red)
+![Java](https://img.shields.io/badge/Java-17+-red)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
 

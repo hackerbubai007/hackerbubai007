@@ -1,7 +1,7 @@
 # Senior Java Backend Engineer | Spring Boot Specialist
 
 ## 💼 Professional Summary
-Seasoned Java Backend Engineer with 3.5+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem, cloud technologies, and DevOps practices. Proven track record in leading technical implementations and mentoring junior developers.
+Seasoned Java Backend Engineer with 3.5+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem. Proven track record in leading technical implementations and mentoring junior developers.
 
 ## 🏢 Experience Highlights
 
@@ -12,12 +12,12 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
   - Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality
 
 ## 🛠️ Technical Stack
-**Primary:** Java 11 / 17, Spring Boot, Spring Cloud, Hibernate  
-**Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch  
+**Primary:** Java 11 / 17, Spring, Spring Boot, Hibernate / JPA
+**Databases:** Mysql, Redis
 **Messaging:** Apache Kafka, RabbitMQ  
 **Cloud & Containers:** AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes  
-**DevOps / Observability:** Jenkins, GitLab CI, Terraform, Prometheus, Grafana  
-**Build & Test:** Maven, Gradle, JUnit, Mockito
+**Observability:** Jenkins, Git
+**Build & Test:** Maven, JUnit, Mockito
 
 ## 📊 Key Metrics & Impact
 - Reduced API response time from ~2s to ~200ms via code and query optimizations  

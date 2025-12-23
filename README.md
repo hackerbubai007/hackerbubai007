@@ -4,14 +4,12 @@
 Seasoned Java Backend Engineer with 3.5+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem, cloud technologies, and DevOps practices. Proven track record in leading technical implementations and mentoring junior developers.
 
 ## 🏢 Experience Highlights
-- **Tech Lead** @ Current Company (2022–Present)  
-  - Led migration of a monolithic application to microservices resulting in ~40% performance improvement  
-  - Implemented CI/CD pipelines that reduced deployment time from 2 hours to ~15 minutes  
-  - Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality
 
-- **Senior Java Developer** @ Previous Company (2020–2022)  
+- **Senior Java Developer** @ TapQwik (2022–2025)
+  -Led migration of a monolithic application to microservices resulting in ~40% performance improvement 
   - Built high-throughput REST APIs handling 10K+ RPM  
   - Designed and applied caching strategies that reduced DB load by ~60%
+  - Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality
 
 ## 🛠️ Technical Stack
 **Primary:** Java 11 / 17, Spring Boot, Spring Cloud, Hibernate  

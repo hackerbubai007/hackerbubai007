@@ -53,7 +53,7 @@ Real-time event processing pipeline that ingests, aggregates, and exposes analyt
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Certifications
-- CISCO Certified Networs Associate(CCNA)
+- CISCO Certified Network Associate(CCNA)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipankar-mandal-hackerbubai007 )  

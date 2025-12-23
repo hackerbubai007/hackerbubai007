@@ -58,6 +58,6 @@ Real-time event processing pipeline that ingests, aggregates, and exposes analyt
 - Certified Kubernetes Application Developer (CKAD)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipankar-mandal-hackerbubai007 )  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@yourhandle)

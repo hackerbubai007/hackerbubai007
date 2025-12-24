@@ -1,4 +1,4 @@
-# Senior Java Backend Engineer | Spring Boot Specialist
+# Senior Java Backend Engineer
 
 ## 💼 Professional Summary
 Seasoned Java Backend Engineer with 3.5+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem. Proven track record in leading technical implementations and mentoring junior developers.
@@ -44,7 +44,7 @@ Real-time event processing pipeline that ingests, aggregates, and exposes analyt
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackerbubai007&show_icons=true&count_private=true&hide_title=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&theme=dark&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&theme=dark&hide=html,css,js)
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->

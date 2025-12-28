@@ -31,7 +31,7 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0+-green)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
 
-A full-featured microservices architecture with multiple services (orders, catalog, payments, etc.) handling thousands of orders daily. Includes CI/CD, observability (Prometheus/Grafana), and automated integration tests.
+A full-featured microservices architecture with multiple services (orders, catalog, payments, etc.) handling thousands of orders daily. Includes CI/CD, observability and automated integration tests.
 
 ### [Real-time Analytics Engine](https://github.com/hackerbubai007/analytics-engine)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-black)

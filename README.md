@@ -14,8 +14,8 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
 ## 🛠️ Technical Stack
 **Primary:** Java 11 / 17, Spring, Spring Boot, Hibernate / JPA
 **Databases:** Mysql, Redis
-**Messaging:** Apache Kafka, RabbitMQ  
-**Cloud & Containers:** AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes  
+**Messaging:** Apache Kafka  
+**Cloud & Containers:** AWS (EC2, S3, RDS, Lambda), Docker
 **Observability:** Jenkins, Git
 **Build & Test:** Maven, JUnit, Mockito
 

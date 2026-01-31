@@ -60,7 +60,6 @@ Real-time event processing pipeline that ingests, aggregates, and exposes analyt
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&theme=dark&hide=javascript,html,css)
 
-
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Spring Boot Applications for Kubernetes](https://yourblog.example/spring-k8s)

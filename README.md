@@ -12,12 +12,16 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
   - Mentored 3+ junior developers in Spring Boot best practices, testing, and code quality
 
 ## 🛠️ Technical Stack
-**Primary:** Java 11 / 17, Spring, Spring Boot, Hibernate / JPA
-**Databases:** Mysql, Redis
-**Messaging:** Apache Kafka  
-**Cloud & Containers:** AWS (EC2, S3, RDS, Lambda), Docker
-**Observability:** Jenkins, Git
-**Build & Test:** Maven, JUnit, Mockito
+Languages & Core: Java 11, Java 17
+Frameworks: Spring, Spring Boot, Spring MVC, Hibernate / JPA
+Security: Spring Security, JWT (basic)
+Databases & Cache: MySQL, Redis
+Messaging & Streaming: Apache Kafka
+Microservices: REST APIs, API Gateway concepts, Idempotency, Fault Tolerance
+Cloud & Containers: AWS (EC2, S3, RDS, Lambda), Docker
+CI/CD & Version Control: Jenkins, Git, GitHub
+Build & Testing: Maven, JUnit, Mockito
+Observability (Basic): Micrometer, Logs, Metrics
 
 ## 📊 Key Metrics & Impact
 - Reduced API response time from ~2s to ~200ms via code and query optimizations  
@@ -26,10 +30,21 @@ Seasoned Java Backend Engineer with 3.5+ years of experience designing, developi
 
 ## 🔬 Featured Projects
 
-### [E-commerce Microservices Platform](https://github.com/hackerbubai007/ecommerce-platform)
-![Java](https://img.shields.io/badge/Java-17+-red)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0+-green)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
+### E-commerce Microservices Platform
+
+🔗 https://github.com/hackerbubai007/ecommerce-platform
+
+Designed a multi-service architecture (Order, Catalog, Payment, User services)
+
+Implemented Kafka-based event-driven communication
+
+Integrated Redis caching for performance optimization
+
+Secured APIs using Spring Security & JWT
+
+Dockerized services with CI/CD pipelines
+
+Focused on scalability, fault tolerance, and clean architecture principles
 
 A full-featured microservices architecture with multiple services (orders, catalog, payments, etc.) handling thousands of orders daily. Includes CI/CD, observability and automated integration tests.
 

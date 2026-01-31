@@ -58,7 +58,7 @@ Real-time event processing pipeline that ingests, aggregates, and exposes analyt
 (Replace the project links/descriptions above with your actual repositories if different.)
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&langs_count=1)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&langs_count=1&cache_seconds=1800)
 
 
 ## 📝 Recent Blog Posts

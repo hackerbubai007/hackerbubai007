@@ -32,7 +32,7 @@ Observability (Basic): Micrometer, Logs, Metrics
 
 ### E-commerce Microservices Platform
 
-🔗 https://github.com/hackerbubai007/ecommerce-platform
+🔗 [https://github.com/hackerbubai007/ecommerce-platform](https://github.com/hackerbubai007/E-Commerce-Application-Spring-Boot-Microservices)
 
 Designed a multi-service architecture (Order, Catalog, Payment, User services)
 
@@ -55,11 +55,8 @@ A full-featured microservices architecture with multiple services (orders, catal
 
 Real-time event processing pipeline that ingests, aggregates, and exposes analytics dashboards for high-throughput event streams.
 
-(Replace the project links/descriptions above with your actual repositories if different.)
-
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hackerbubai007&layout=compact&langs_count=1&cache_seconds=1800)
-
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->

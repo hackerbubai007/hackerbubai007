@@ -1,7 +1,7 @@
 # Java Backend Engineer | Developer
 
 ## 💼 Professional Summary
-Seasoned Java Backend Engineer with 3.5+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem. Proven track record in leading technical implementations and mentoring junior developers.
+Seasoned Java Backend Engineer with 4+ years of experience designing, developing, and deploying scalable microservices architectures. Specialized in the Spring Boot ecosystem. Proven track record in leading technical implementations and mentoring junior developers.
 
 ## 🏢 Experience Highlights
 
